@@ -18,7 +18,7 @@ public class ProductsController : ControllerBase
     public async Task<IActionResult> GetAll()
     { 
         
-        return Ok( await _dbService.GetAllAsync()); 
+        return Ok( await _dbService.GetAllItemAsync()); 
     
     }
 
@@ -26,16 +26,18 @@ public class ProductsController : ControllerBase
     [HttpGet("{id}")]
     public async Task<IActionResult> GetById(string id)
     {
-        var product = await _dbService.GetByIdAsync(id);
-        return product == null ? NotFound() : Ok(product);
+        var item = await _dbService.GetItemByIdAsync(id);
+        return item == null ? NotFound() : Ok(item);
     }
 
     [HttpPost]
-    public async Task<IActionResult> Create(Product product)
+    public async Task<IActionResult> Create(Product item)
     {
-        await _dbService.CreateAsync(product);
-        return CreatedAtAction(nameof(GetById), new { id = product.Id }, product);
+        await _dbService.SaveItemAsync(item);
+        return CreatedAtAction(nameof(GetById), new { id = item.Id }, item);
     }
+
+
 
 
 
@@ -44,7 +46,7 @@ public class ProductsController : ControllerBase
     [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(string id)
     {
-        await _dbService.DeleteAsync(id);
+        await _dbService.DeleteItemByIdAsync(id);
         return NoContent();
     }
 }

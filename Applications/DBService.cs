@@ -16,25 +16,25 @@ namespace Repository_Pattern.Services
             _dbContext = mongoService.GetCollection<T>(collectionName);
             }
 
-            public async Task<List<T>> GetAllAsync()
+            public async Task<List<T>> GetAllItemAsync()
             {
                 return await _dbContext.Find(_ => true).ToListAsync();
             }
 
 
-            public async Task<T?> GetByIdAsync(string id)
+            public async Task<T?> GetItemByIdAsync(string id)
             {
                 return await _dbContext.Find(x => x.Id == id).FirstOrDefaultAsync();
             }
 
 
-            public async Task CreateAsync(T entity)
+            public async Task SaveItemAsync(T entity)
             { await _dbContext.InsertOneAsync(entity); }
 
-            public async Task UpdateAsync(string id, T entity)
+            public async Task UpdateItemByIdAsync(string id, T entity)
             { await _dbContext.ReplaceOneAsync(x => x.Id == id, entity); }
 
-            public async Task DeleteAsync(string id)
+            public async Task DeleteItemByIdAsync(string id)
             { await _dbContext.DeleteOneAsync(x => x.Id == id); }
         
     

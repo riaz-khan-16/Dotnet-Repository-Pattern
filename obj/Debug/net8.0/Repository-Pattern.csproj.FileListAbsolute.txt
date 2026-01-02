@@ -39,3 +39,4 @@ D:\Company Projects\Repository-Pattern\Repository-Pattern\bin\Debug\net8.0\Mongo
 D:\Company Projects\Repository-Pattern\Repository-Pattern\bin\Debug\net8.0\SharpCompress.dll
 D:\Company Projects\Repository-Pattern\Repository-Pattern\bin\Debug\net8.0\Snappier.dll
 D:\Company Projects\Repository-Pattern\Repository-Pattern\bin\Debug\net8.0\ZstdSharp.dll
+D:\Company Projects\Repository-Pattern\Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.sourcelink.json
