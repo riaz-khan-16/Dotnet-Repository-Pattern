@@ -11,34 +11,34 @@ namespace Repository_Pattern.API;
 [Route("api/[controller]")]
 public class BookController:ControllerBase
  {
-    private readonly IDBService<Book> _dbService;
-    public BookController(IDBService<Book> dbService) { 
+    private readonly IDBService _dbService;
+    public BookController(IDBService dbService) { 
 
         _dbService = dbService;
     
     }
 
     [HttpGet]
-    public async Task<IActionResult> GetAll()
+    public Task<List<Book>> Get()
     {
 
-        return Ok(await _dbService.GetAllItemAsync());
+        return _dbService.GetAllItemAsync<Book>();
 
     }
 
     [HttpGet("{id}")]
     public async Task<IActionResult> GetById(string id)
     {
-        var item = await _dbService.GetItemByIdAsync(id);
+        var item = await _dbService.GetItemByIdAsync<Book>(id);
         return item == null ? NotFound() : Ok(item);
     }
 
 
     [HttpPost]
-    public async Task<IActionResult> Create(Book item)
+    public async Task<string> Create(Book item)
     {
-        await _dbService.SaveItemAsync(item);
-        return CreatedAtAction(nameof(GetById), new { id = item.Id }, item);
+        await _dbService.SaveItemAsync<Book>(item);
+        return "Project is created";
     }
 
 

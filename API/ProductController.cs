@@ -7,9 +7,9 @@ using Repository_Pattern.Entity;
 [Route("api/[controller]")]
 public class ProductsController : ControllerBase
 {
-    private readonly IDBService<Product> _dbService;
+    private readonly IDBService _dbService;
 
-    public ProductsController(IDBService<Product> service)
+    public ProductsController(IDBService service)
     {
         _dbService = service;
     }
@@ -18,7 +18,7 @@ public class ProductsController : ControllerBase
     public async Task<IActionResult> GetAll()
     { 
         
-        return Ok( await _dbService.GetAllItemAsync()); 
+        return Ok( await _dbService.GetAllItemAsync<Product>()); 
     
     }
 
@@ -26,14 +26,17 @@ public class ProductsController : ControllerBase
     [HttpGet("{id}")]
     public async Task<IActionResult> GetById(string id)
     {
-        var item = await _dbService.GetItemByIdAsync(id);
+        var item = await _dbService.GetItemByIdAsync<Product>(id);
         return item == null ? NotFound() : Ok(item);
+
     }
 
     [HttpPost]
     public async Task<IActionResult> Create(Product item)
     {
-        await _dbService.SaveItemAsync(item);
+
+        await _dbService.SaveItemAsync<Product>(item);
+        
         return CreatedAtAction(nameof(GetById), new { id = item.Id }, item);
     }
 
@@ -46,7 +49,7 @@ public class ProductsController : ControllerBase
     [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(string id)
     {
-        await _dbService.DeleteItemByIdAsync(id);
+        await _dbService.DeleteItemByIdAsync<Product> (id);
         return NoContent();
     }
 }

@@ -40,3 +40,46 @@ D:\Company Projects\Repository-Pattern\Repository-Pattern\bin\Debug\net8.0\Sharp
 D:\Company Projects\Repository-Pattern\Repository-Pattern\bin\Debug\net8.0\Snappier.dll
 D:\Company Projects\Repository-Pattern\Repository-Pattern\bin\Debug\net8.0\ZstdSharp.dll
 D:\Company Projects\Repository-Pattern\Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.sourcelink.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\appsettings.Development.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\appsettings.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\Repository-Pattern.staticwebassets.endpoints.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\Repository-Pattern.exe
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\Repository-Pattern.deps.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\Repository-Pattern.runtimeconfig.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\Repository-Pattern.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\Repository-Pattern.pdb
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\DnsClient.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\SharpCompress.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\Snappier.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\bin\Debug\net8.0\ZstdSharp.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.csproj.AssemblyReference.cache
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.AssemblyInfoInputs.cache
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.AssemblyInfo.cs
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.csproj.CoreCompileInputs.cache
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.MvcApplicationPartsAssemblyInfo.cs
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.MvcApplicationPartsAssemblyInfo.cache
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.sourcelink.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\scopedcss\bundle\Repository-Pattern.styles.css
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\staticwebassets.build.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\staticwebassets.development.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\swae.build.ex.cache
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Reposito.674C4B17.Up2Date
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\refint\Repository-Pattern.dll
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.pdb
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\Repository-Pattern.genruntimeconfig.cache
+C:\WorkMy\Repo-Pattern\Dotnet-Repository-Pattern\obj\Debug\net8.0\ref\Repository-Pattern.dll

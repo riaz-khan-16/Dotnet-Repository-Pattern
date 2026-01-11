@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\",
+  "WorkspaceRootPath": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\api\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:api\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\api\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:api\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\api\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:api\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\applications\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:applications\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\applications\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:applications\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\applications\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:applications\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\applications\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:applications\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\applications\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:applications\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\api\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:api\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\api\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:api\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\applications\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:applications\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\repository-pattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:repository-pattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\models\\mongosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:models\\mongosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\models\\mongosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:models\\mongosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\repository-pattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:repository-pattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|d:\\company projects\\repository-pattern\\repository-pattern\\repository-pattern.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|c:\\workmy\\repo-pattern\\dotnet-repository-pattern\\repository-pattern.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{86352815-593F-4725-ABAB-D3C6F83CEE50}|Repository-Pattern.csproj|solutionrelative:repository-pattern.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -74,41 +74,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\API\\StudentController.cs",
-              "RelativeDocumentMoniker": "API\\StudentController.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\API\\StudentController.cs",
-              "RelativeToolTip": "API\\StudentController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Applications\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Applications\\DependencyInjection.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Applications\\DependencyInjection.cs",
+              "RelativeToolTip": "Applications\\DependencyInjection.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T14:38:01.535Z",
+              "WhenOpened": "2026-01-11T07:09:44.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\API\\BookController.cs",
+              "RelativeDocumentMoniker": "API\\BookController.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\API\\BookController.cs",
+              "RelativeToolTip": "API\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:21:25.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Entity\\Student.cs",
-              "RelativeDocumentMoniker": "Entity\\Student.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Entity\\Student.cs",
-              "RelativeToolTip": "Entity\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "DBService.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Applications\\DBService.cs",
+              "RelativeDocumentMoniker": "Applications\\DBService.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Applications\\DBService.cs",
+              "RelativeToolTip": "Applications\\DBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T14:37:11.179Z",
+              "WhenOpened": "2026-01-02T10:58:41.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "Entity\\Product.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Entity\\Product.cs",
+              "RelativeToolTip": "Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T08:24:11.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\API\\ProductController.cs",
+              "RelativeDocumentMoniker": "API\\ProductController.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\API\\ProductController.cs",
+              "RelativeToolTip": "API\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:03:59.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "Entity\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:28:22.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Entity\\Book.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Entity\\Book.cs",
               "RelativeDocumentMoniker": "Entity\\Book.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Entity\\Book.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Entity\\Book.cs",
               "RelativeToolTip": "Entity\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,101 +169,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\API\\BookController.cs",
-              "RelativeDocumentMoniker": "API\\BookController.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\API\\BookController.cs*",
-              "RelativeToolTip": "API\\BookController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "Entity\\Student.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Entity\\Student.cs",
+              "RelativeToolTip": "Entity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T14:21:25.701Z",
+              "WhenOpened": "2026-01-02T14:37:11.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Entity\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Entity\\BaseEntity.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Entity\\BaseEntity.cs",
-              "RelativeToolTip": "Entity\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:28:22.785Z"
+              "WhenOpened": "2026-01-02T06:01:42.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "IDBService.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Applications\\IDBService.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Applications\\IDBService.cs",
               "RelativeDocumentMoniker": "Applications\\IDBService.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Applications\\IDBService.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Applications\\IDBService.cs",
               "RelativeToolTip": "Applications\\IDBService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T11:17:13.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\API\\ProductController.cs",
-              "RelativeDocumentMoniker": "API\\ProductController.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\API\\ProductController.cs",
-              "RelativeToolTip": "API\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:03:59.735Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T06:46:22.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DBService.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Applications\\DBService.cs",
-              "RelativeDocumentMoniker": "Applications\\DBService.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Applications\\DBService.cs",
-              "RelativeToolTip": "Applications\\DBService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T10:58:41.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MongoService.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Applications\\MongoService.cs",
-              "RelativeDocumentMoniker": "Applications\\MongoService.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Applications\\MongoService.cs",
-              "RelativeToolTip": "Applications\\MongoService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T08:25:37.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Entity\\Product.cs",
-              "RelativeDocumentMoniker": "Entity\\Product.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Entity\\Product.cs",
-              "RelativeToolTip": "Entity\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T08:24:11.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "MongoSetting.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Models\\MongoSetting.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Models\\MongoSetting.cs",
               "RelativeDocumentMoniker": "Models\\MongoSetting.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Models\\MongoSetting.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Models\\MongoSetting.cs",
               "RelativeToolTip": "Models\\MongoSetting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,11 +232,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-04T11:06:48.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Repository-Pattern.csproj",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Repository-Pattern.csproj",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Repository-Pattern.csproj",
               "RelativeDocumentMoniker": "Repository-Pattern.csproj",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Repository-Pattern.csproj",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Repository-Pattern.csproj",
               "RelativeToolTip": "Repository-Pattern.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -231,23 +256,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-02T06:46:22.105Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\WeatherForecast.cs",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\WeatherForecast.cs",
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,25 +270,13 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Repository-Pattern.http",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Repository-Pattern.http",
+              "DocumentMoniker": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Repository-Pattern.http",
               "RelativeDocumentMoniker": "Repository-Pattern.http",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Repository-Pattern.http",
+              "ToolTip": "C:\\WorkMy\\Repo-Pattern\\Dotnet-Repository-Pattern\\Repository-Pattern.http",
               "RelativeToolTip": "Repository-Pattern.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-01-02T06:02:04.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Company Projects\\Repository-Pattern\\Repository-Pattern\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T06:01:42.829Z"
             }
           ]
         }
